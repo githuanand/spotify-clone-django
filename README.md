@@ -69,19 +69,12 @@ spotify-clone/
 ---
 
 ## 📸 Screenshots
-_Add some screenshots here to showcase your UI._
+
+<img width="1365" height="716" alt="image" src="https://github.com/user-attachments/assets/5f461280-4bfa-451f-a11a-5ce25d588030" />
+
 
 ---
 
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome!  
 Feel free to check the issues page.
-
----
-
-## 📜 License
-This project is licensed under the MIT License.
-
----
-
-> 🚀 Pro Tip: Deploy your project to Render or Heroku so others can try it live!
