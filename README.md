@@ -26,11 +26,17 @@ Built with **Django**, **HTML**, **CSS**, and **JavaScript** to deliver a sleek,
 
 ## 📂 Project Structure
 spotify-clone/
+
 │-- templates/         # HTML templates
+
 │-- static/            # CSS, JS, images
-│-- media/             # Music files
+
+│-- SONGS/             # Music files
+
 │-- app/               # Django app logic
+
 │-- manage.py
+
 │-- requirements.txt
 
 ---
